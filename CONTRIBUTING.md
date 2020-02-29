@@ -16,4 +16,4 @@ Your contributions are always welcome!
 * Don't mention `Python` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
-
+* Please send an email to: lieblings_kollege@firma.com
